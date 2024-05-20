@@ -1,6 +1,6 @@
 # ionic-angular-questions
 
-# Questions sur Ionic
+### Questions sur Ionic
 
 1. **Qu'est-ce que Ionic ?**
    - Ionic est un framework open-source utilisé pour développer des applications mobiles hybrides en utilisant des technologies web comme HTML, CSS et JavaScript.
