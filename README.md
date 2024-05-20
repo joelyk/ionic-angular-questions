@@ -1,7 +1,6 @@
 # ionic-angular-questions
-Voici une série de questions basiques avec leurs réponses sur les frameworks Ionic, Angular, Cordova, et Capacitor. Ces questions permettront de vérifier si l'apprenant comprend bien ces notions, ainsi que des questions sur les commandes spécifiques.
 
-### Questions sur Ionic
+# Questions sur Ionic
 
 1. **Qu'est-ce que Ionic ?**
    - Ionic est un framework open-source utilisé pour développer des applications mobiles hybrides en utilisant des technologies web comme HTML, CSS et JavaScript.
